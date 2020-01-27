@@ -8,7 +8,7 @@ Tuesdays & Thursdays • 12:30-2:20PM • 370 Jay St, Rm 310 • 3 credit hrs
 
 Prerequisites: None
 ```
-###Github Repository:
+### Github Repository:
 * https://github.com/IDMNYU/DM1123-VFS-SP20-SEEGERS
 
 ---
@@ -108,12 +108,12 @@ Students will conduct self assessments as well as be evaluated by the professor 
 - 12% class exercises
 - 10% class participation
 - 5% end of semester portfolio PDF (or book for extra credit)
-- 2.5% [logo show and tell](projects\Show_and_Tells.md)
-- 2.5% [creator show and tell](projects\Show_and_Tells.md)
-- 2% [reading responses](projects\Reading_Responses.md)
-- 2% [tickets to leave](projects\Tickets_to_Leave.md)
-- 2% [midterm (final logo) self assessment](projects\Self_Assessments.md)
-- 2% [final (physical application) self assessment and letter to next cohort](projects\Self_Assessments.md)
+- 2.5% [logo show and tell](projects/Show_and_Tells.md)
+- 2.5% [creator show and tell](projects/Show_and_Tells.md)
+- 2% [reading responses](projects/Reading_Responses.md)
+- 2% [tickets to leave](projects/Tickets_to_Leave.md)
+- 2% [midterm (final logo) self assessment](projects/Self_Assessments.md)
+- 2% [final (physical application) self assessment and letter to next cohort](projects/Self_Assessments.md)
 
 
 ##### Qualitative Grading Overview
@@ -170,7 +170,7 @@ Students, in addition to their regular NYU allotment ([information on NYU Print 
 
 ### REQUIRED BOOKS
 
-These books (*) are available for purchase in the NYU bookstore, and will be on reserve at the NYU School of Engineering Dibner library. This book is available as an online book via http://bobcat.library.nyu.edu.
+These books (_*_) are available for purchase in the NYU bookstore, and will be on reserve at the NYU School of Engineering Dibner library. This book is available as an online book via http://bobcat.library.nyu.edu.
 
 * Graphic Design: The New Basics by Ellen Lupton *
   * Available digitally via NYU Libraries at https://getit.library.nyu.edu/go/9460152
@@ -197,15 +197,15 @@ See appendices for all of the following:
 * [End of Semester Deliverables](projects/end-of-semester-deliverables.md)
 
 #### Projects
-*  [01-Logo_Project](projects\01-logo_project.md)
-*  [02-Physical_Application](projects\02-physical_application.md)
-*  [03-Interface_Project](projects\03-interface_project.md)
+*  [01-Logo_Project](projects/01-logo_project.md)
+*  [02-Physical_Application](projects/02-physical_application.md)
+*  [03-Interface_Project](projects/03-interface_project.md)
 
 #### Assignments
-*  [Reading_Responses.md](projects\Reading_Responses.md)
-*  [Self_Assessments & Letter to Next Cohort.md](projects\Self_Assessments.md)
-*  [Show_and_Tells.md](projects\Show_and_Tells.md)
-*  [Tickets_to_Leave.md](projects\Tickets_to_Leave.md)
+*  [Reading_Responses.md](projects/Reading_Responses.md)
+*  [Self_Assessments & Letter to Next Cohort.md](projects/Self_Assessments.md)
+*  [Show_and_Tells.md](projects/Show_and_Tells.md)
+*  [Tickets_to_Leave.md](projects/Tickets_to_Leave.md)
 
 
 

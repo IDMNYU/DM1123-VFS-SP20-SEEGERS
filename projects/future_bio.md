@@ -10,7 +10,7 @@ Tuesdays & Thursdays • 12:30-2:20PM • 370 Jay St, Rm 310 • 3 credit hrs
 
 ## **Future Bio**
 
-Submit via email it to me **as a PDF,** and make sure to **name the file properly like so: lastname, firstname_future bio.pdf**
+Submit via Slack Direct Message to me **as a PDF,** and make sure to **name the file properly like so: lastname, firstname_future bio.pdf**
 
 - Write a 200-500 word bio imagining your professional and personal accomplishments 30 years from now. Some questions to think about and include in your description:
   - The kinds of work you will have completed

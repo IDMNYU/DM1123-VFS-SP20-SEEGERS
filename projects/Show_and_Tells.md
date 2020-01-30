@@ -36,7 +36,27 @@ Tuesdays & Thursdays • 12:30-2:20PM • 370 Jay St, Rm 310 • 3 credit hrs
 * Sophie Tauber-Arp (composition, textiles, interiors)
 * Anni Albers (textiles, printmaking)
 
+**Assigned Creators and Dates:**
 
+**Tuesday, Feb 4**  
+- Erin Lam & Arnie Forte - Peter Saville  
+- Thao Nguyen & Kia Loor - Guerilla Girls  
+
+**Thurs, Feb 6**
+- Cissie Wang & Dylan Henry - Josef Muller Brockman  
+- Charitssa Stone & Tripp Fuentes - Susan Kare
+
+**Tues, Feb 11**
+- Chris Mancini & Steffi Schron - Muriel Cooper  
+- Sophie Reck & Dexter Reinaldo - Sophie Tauber Arp
+
+**Thurs, Feb 13**
+- Maya Treitman & Alison Chen - David Carson  
+- Cesar Alvarado & Tina Huo - Anni Albers
+
+**Tues, Feb 18**
+- Yuchen Li & Trang Duong - Paula Scher  
+- Xuemei Yang & Jules Kho - Andy Warhol
 
 ---
 

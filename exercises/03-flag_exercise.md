@@ -12,7 +12,7 @@ Tuesdays & Thursdays • 12:30-2:20PM • 370 Jay St, Rm 310 • 3 credit hrs
 
 * Post to The Slack channel #exercise-flag-design, an Adobe Illustrator (.ai) file, **remember to name your file lastname, firstname - exercise name.ai**
 
-* Create a new Adobe Illustrator file with an artboard of 3" width and 5" height
+* Create a new Adobe Illustrator file with an artboard of 5" width and 3" height
 * Using your knowledge of vector graphics (fills and strokes, simple shapes, the pathfinder tool) design a flag, any flag
 * Keep it abstract and simple!
 

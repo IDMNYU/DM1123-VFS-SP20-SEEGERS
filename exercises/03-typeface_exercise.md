@@ -27,8 +27,10 @@ Post to the Slack channel #exercise-typeface:
 * Discuss why the typeface is one of your favorites
 
 2. **A single typeface selection from the collection of contemporary type foundries [on are.na here](https://www.are.na/jesse-seegers/contemporary-typography-foundries) choose a typeface that you like, and list the following:**
+* An image of a [pangram sentence](http://clagnut.com/blog/2380/) of your choosing, set in the chosen typeface
 * The designer(s) of the typeface
-* The typeface's family
+* The typeface's family (serif/sans-serif/slab serif/script/display)
 * How much it costs to buy a license to use it on a small website
 * one fun fact about the typeface
+* a link (url) to the typeface online
 

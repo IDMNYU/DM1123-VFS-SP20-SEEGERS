@@ -23,14 +23,14 @@ Tuesdays & Thursdays • 12:30-2:20PM • 370 Jay St, Rm 310 • 3 credit hrs
 
 - Pen/Pencil & Paper
 - Phone scanning apps
-  - Genius Scan 
-  - Adobe Scan
-  - Microsoft Office Lens
-- Are.na: Visual research
+  - [Genius Scan](https://thegrizzlylabs.com/genius-scan)
+  - [Adobe Scan](https://acrobat.adobe.com/us/en/mobile/scanner-app.html)
+  - [Microsoft Office Lens](https://www.microsoft.com/en-us/p/office-lens/9wzdncrfj3t8)
+- [Are.na](https://www.are.na/): Visual research
 - InDesign: Composition, layout
 - Photoshop: Image processing
 - Illustrator: Vector Graphics, icons, and logos
-- Figma: Wireframing, Digital Prototyping
+- [Figma](figma.com): Wireframing, Digital Prototyping
 - Google Forms: content entry
 - Google Sheets: content database repository
 

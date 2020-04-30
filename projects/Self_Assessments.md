@@ -10,17 +10,16 @@ Tuesdays & Thursdays • 12:30-2:20PM • 370 Jay St, Rm 310 • 3 credit hrs
 
 ### SELF ASSESSMENTS & LETTER TO NEXT COHORT
 
-#### MIDTERM SELF ASSESSMENT  
+~~#### MIDTERM SELF ASSESSMENT  
 
-**Send your midterm self assessment as a PDF in a Slack Direct Message to me.**
+~~**Send your midterm self assessment as a PDF in a Slack Direct Message to me.**
 
-Critically analyze/evaluate your visual foundation process and how it is has changed over the course of the semester. 
+~~Critically analyze/evaluate your visual foundation process and how it is has changed over the course of the semester. 
 
-* What are you learning? 
-* How are your learning?
-* What qualitative description would you give your process and why? (i.e. excellent, very good, good, etc. Consult the grading overview descriptions presented earlier in this syllabus.)
+~~* What are you learning? 
+* How are your learning? 
+~~* What qualitative description would you give your process and why? (i.e. excellent, very good, good, etc. Consult the grading overview descriptions presented earlier in this syllabus.)
 * What qualitative description would you give the execution of your logo project and why?
-
 
 #### FINAL SELF ASSESSMENT   
 
@@ -44,3 +43,10 @@ Critically analyze/evaluate your visual foundation process and how it is has cha
 
 * What assignment(s) did you like the most and why?
 * What assignment(s) did you like the least and why?
+
+
+#### Letter to Next Cohort
+
+**Send your Letter as a PDF in a Slack Direct Message to me.**
+
+Write a letter (one page maximum) to the next class giving them advice on how to reach their learning goals and get value out of this course.
